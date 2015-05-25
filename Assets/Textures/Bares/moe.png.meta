@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 6debf3e4de247514bb4d92e2bb220ef7
+timeCreated: 1432581372
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: moe_0
+    21300002: moe_1
+    21300004: moe_2
+    21300006: moe_3
+    21300008: moe_4
+    21300010: moe_5
+    21300012: moe_6
+    21300014: moe_7
+    21300016: moe_8
+    21300018: moe_9
+    21300020: moe_10
+    21300022: moe_11
+    21300024: moe_12
+    21300026: moe_13
+    21300028: moe_14
+    21300030: moe_15
+    21300032: moe_16
+    21300034: moe_17
+    21300036: moe_18
+    21300038: moe_19
+    21300040: moe_20
+    21300042: moe_21
+    21300044: moe_22
+    21300046: moe_23
+    21300048: moe_24
+    21300050: moe_25
+    21300052: moe_26
+    21300054: moe_27
+    21300056: moe_28
+    21300058: moe_29
+    21300060: moe_30
+    21300062: moe_31
+    21300064: moe_32
+    21300066: moe_33
+    21300068: moe_34
+    21300070: moe_35
+    21300072: moe_36
+    21300074: moe_37
+    21300076: moe_38
+    21300078: moe_39
+    21300080: moe_40
+    21300082: moe_41
+    21300084: moe_43
+    21300086: moe_52
+    21300088: moe_42
+    21300090: moe_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 120
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: moe_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 940
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 940
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 940
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 940
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 940
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 829
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 829
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 829
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 829
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_9
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 829
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 724
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 724
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 723
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 723
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_14
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 723
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 614
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 614
+        width: 63
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 614
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_18
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 614
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_19
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 614
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 504
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 505
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 504
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_23
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 504
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_24
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 513
+        width: 42
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 396
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 397
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_27
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 396
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 396
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_29
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 397
+        width: 42
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 292
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 292
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 292
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_34
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 293
+        width: 42
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_35
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 192
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 196
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_37
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 260
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_38
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 256
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_39
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 254
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_40
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 196
+        width: 87
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_41
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_42
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 196
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_44
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 196
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moe_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 292
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

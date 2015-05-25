@@ -91,9 +91,14 @@
      <Compile Include="Assets\Scripts\BotonRanking.cs" />
      <Compile Include="Assets\Scripts\ControladorPersonaje.cs" />
      <Compile Include="Assets\Scripts\Destructor.cs" />
+     <Compile Include="Assets\Scripts\Disparo.cs" />
+     <Compile Include="Assets\Scripts\Disparo2.cs" />
      <Compile Include="Assets\Scripts\EstadoJuego.cs" />
      <Compile Include="Assets\Scripts\Generador.cs" />
+     <Compile Include="Assets\Scripts\GeneradorFondo.cs" />
+     <Compile Include="Assets\Scripts\HealScript.cs" />
      <Compile Include="Assets\Scripts\Item.cs" />
+     <Compile Include="Assets\Scripts\MoveScript.cs" />
      <Compile Include="Assets\Scripts\NotificationCenter.cs" />
      <Compile Include="Assets\Scripts\Puntuacion.cs" />
      <Compile Include="Assets\Scripts\Scroll.cs" />

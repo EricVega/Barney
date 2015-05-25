@@ -51,9 +51,9 @@ public class Puntuacion : MonoBehaviour {
 	}
 
 	void IncrementarPuntos(Notification notificacion){
+		NumJarras += 1;
 		int puntosAIncrementar = (int)notificacion.data;
 		puntuacion+=puntosAIncrementar;
-		NumJarras++;
 		ActualizarMarcador();
 	}
 
