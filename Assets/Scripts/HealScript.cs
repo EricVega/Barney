@@ -16,6 +16,7 @@ public class HealScript : MonoBehaviour {
 				Destroy(shot.gameObject);
 				if (hp <= 0){
 					Destroy(gameObject);
+					if (isEnemy == false) NotificationCenter.DefaultCenter().PostNotification(this, "PersonajeHaMuerto");
 				}
 			}
 		}
